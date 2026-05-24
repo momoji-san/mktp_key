@@ -1,5 +1,5 @@
 # mktp_key
-QMK(Vial) firmware for MachiKania gamepad
+QMK(Vial) firmware for MachiKania gamepad and PC.
 
 To customaize button, connect to https://vial.rocks/  
 
